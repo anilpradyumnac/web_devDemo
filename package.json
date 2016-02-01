@@ -1,0 +1,16 @@
+{
+  "name": "web_project_basic",
+  "version": "0.0.0",
+  "description": "a basic standard webproject ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "sass",
+    "react"
+  ],
+  "author": "anilpradyumnac",
+  "license": "ISC"
+}
